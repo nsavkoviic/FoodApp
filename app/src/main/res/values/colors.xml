@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#1E1E1E</color>
+    <color name="primary">#E59C4D</color>
+    <color name="second_primary">#FFDEBB</color>
+    <color name="gray">#CFCFCF</color>
+    <color name="price">#F65D5D</color>
+    <color name="background">#F0F0F0</color>
+</resources>
